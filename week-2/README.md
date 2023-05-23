@@ -120,10 +120,10 @@
 
 Я сначала пробежался по ТЗ и выделил всё что похоже на характеристики, а потом уже собрал в один список. Итоговый список важных характеристик в конце пункта.
 
-[US-050] - не известно как будет вестить расчёт (изменчивость)
-[US-070] - agility, testability, deployability, scalability, availability и fault tolerance
-[US-081] - 1k/день заявок + защита от ddos (масштабирование + защита остальной части системы) (performance, availability, fault tolerance, testability, deployability, agility, security, scalability)
-[US-170] - небольшой намёк на вариативность, потому что сегодня печеньки, а завтра яблоки
+- [US-050] - не известно как будет вестить расчёт (изменчивость)
+- [US-070] - agility, testability, deployability, scalability, availability и fault tolerance
+- [US-081] - 1k/день заявок + защита от ddos (масштабирование + защита остальной части системы) (performance, availability, fault tolerance, testability, deployability, agility, security, scalability)
+- [US-170] - небольшой намёк на вариативность, потому что сегодня печеньки, а завтра яблоки
 
 Низкий TTM (agility, testability и deployability)
 
